@@ -4,7 +4,7 @@ Nun, warte einen Moment: Agil ist nicht ein Bündel an Dingen, die Du machen kan
 
 * Binde den Kunden früh und oft ein
 * Liefere früh und oft aus
-* Integriere früh und oft zusammen
+* Integriere früh und oft
 * Teste früh und oft
 * Entwickle früh und oft paarweise
 
