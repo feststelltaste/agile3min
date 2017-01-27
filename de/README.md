@@ -1,11 +1,16 @@
 # Open translations for German (de)
 
+**Legend**  
+~~ready for publishing~~  
+*work in progress*
+
+**Episodes**  
 ~~01\_Effect.md~~  
-02\_Retrospect.md  
-03\_Trust.md  
-04\_Intuit.md  
-05\_Wrong.md  
-06\_Risk.md  
+~~02\_Retrospect.md~~  
+~~03\_Trust.md~~  
+~~04\_Intuit.md~~  
+*05\_Wrong.md*  
+*06\_Risk.md*  
 07\_Fear.md  
 08\_Care.md  
 09\_Pair.md  
