@@ -18,4 +18,4 @@ Für mich ist „früh“ der schönste Weg, um herauszufinden, dass ich falsch 
  
 Wir müssen nicht darauf warten, bis jemand unsere Füße ins Feuer legt, um zu wissen, dass es in der Nähe ein Feuer gibt. Wir können dort unsere Füße haben, nahe, aber nicht zu nahe, wo wir die Wärme noch spüren können. Wir könnten sogar entscheiden, dass es der schönste Ort ist, um dort unsere Füße zu haben. Und da wir immer genau wissen, wo das Feuer ist, können wir schnell handeln, wenn es notwendig sein sollte, die Flammen unter Kontrolle zu halten, um dadurch weiter unseren Bedürfnissen zu befriedigen.
 
-Wenn &ndash; und nur wenn &ndash; wir bereit sind in Betracht zu ziehen, dass die Funktionsweise unserer Arbeit selbst falsch sein könnte.
+Wenn &ndash; und nur wenn &ndash; wir bereit sind, in Betracht zu ziehen, dass die Funktionsweise unserer Arbeit selbst falsch sein könnte.
