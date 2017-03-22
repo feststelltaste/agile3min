@@ -1,4 +1,4 @@
-Wir arbeiten nicht mit schwerem Gerät, wir sitzen in klimatisierten Büros, denken, reden und schreiben. Was gibt es da ängstlich zu sein?
+Wir arbeiten nicht mit schwerem Gerät, wir sitzen in klimatisierten Büros &ndash; denken, reden und schreiben. Was gibt es da ängstlich zu sein?
 
 Ja, wir sind einem relativ niedrigen Verletzungsrisiko durch blitzschnelle Fehler ausgesetzt. Aber all das Sitzen könnte unsere Körperfähigkeiten, Energie zu produzieren oder dessen Verbrauch zu regulieren, reduzieren und die ganze Tipperei könnte unsere Handgelenke schädigen. Und wir sind der Gefahr ausgesetzt, im Job auf eine andere Art und Weise verletzt zu werden:
 
