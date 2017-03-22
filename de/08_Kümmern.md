@@ -1,3 +1,5 @@
+# Kümmern
+
 Wie können andere sagen, worauf es Dir ankommt?
 
 Bei der Entwicklung von Software, wenn wir hier überhaupt etwas fühlen, könnten unsere Gefühle von Furcht oder Schmerz dominiert werden, die durch Zeitdruck, komplexen Probleme, unklaren Lösungen, beurteilenden Teamkollegen / Managern / Kunden, verpassten Terminen oder Bugs entstehen. Es braucht Geduld und Disziplin, aber wir können es hinbekommen, uns anders zu fühlen.

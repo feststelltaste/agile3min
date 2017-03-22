@@ -1,3 +1,5 @@
+# Retrospektive
+
 Könntest Du auf einer einsamen Wüsteninsel agil sein?
 
 Nun, warte einen Moment: Agil ist nicht ein Bündel an Dingen, die Du machen kannst. Es ist kein Sack an Praktiken &ndash; aber es hängt stark damit zusammen. Wenn Dein Team agil unterwegs ist, dann gibt es wahrscheinlich ein Bündel an Dingen die Du machst. Wenn Du möchstest dass Dein Team noch agiler vorangeht, dann gibt es wahrscheinleich noch eine Hand voll Dinge, die Du probieren kannst:

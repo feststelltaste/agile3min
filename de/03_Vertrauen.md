@@ -1,3 +1,5 @@
+#Vertrauen
+
 Vertrauen, wie Agilität, ist nicht etwas, was Du einfach machen kannst. Aber Du könntest es brauchen, um Geschäftstätigkeiten effektiv durchzuführen. Oder um einen guten Blogbeitrag großartig zu machen.
 
 Du vertraust mir, dass ich Dich in weniger als 180 Sekunden mit Deinen Gedanken positiv proviziert wegschicke. Ich bin nicht sicher, was ich getan habe, um Dein  Vertrauen zu gewinnen, aber ich bin mir sicher, dass ich Deine Erwartungen erfüllen möchte.

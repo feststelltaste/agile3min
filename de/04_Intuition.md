@@ -1,3 +1,5 @@
+# Intuition
+
 Wie viele Entscheidungen treffen wir am Tag, wenn wir Software entwickeln? Dutzende? Hunderte?
 
 Meine Intuition &ndash; die erste Idee, die mir einfällt &ndash; sagt mir, dass es Tausende sind. Scheint hoch, nicht wahr? Nun, meine Intuition sagt mir, dass das eine untere Grenze ist, weil wir noch einmal viele Entscheidungen, ohne es zu bemerken, treffen. Hier sind ein paar Kategorien, die wir tendenziell selbst wahrnehmen: ob zu testen, wann zu testen, wie zu testen, wie den Quellcode einrücken, wann refaktorisieren, wie refaktorisieren, wann commiten, wie die Commit-Nachricht für die Nachwelt formulieren. Dir fallen bestimmt weitere ein. Dennoch, im Code selbst hinterlassen wir relativ wenige Entscheidungen, die nachvollziehbar sind. Und das ist nur der Code. Entscheidungen zu zählen ist wie die Vermessung von Küstenlinien mit Landkarten: je genauer Du hinschaust, desto mehr findest Du.

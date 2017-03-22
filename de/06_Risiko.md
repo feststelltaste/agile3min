@@ -1,3 +1,5 @@
+# Risiko
+
 Mit wie viel Risiko fühlst Du Dich in der Regel wohl? Was ist mit Deinen Teamkollegen? Manager? Kunden? Unabhängig von Deinen Vorlieben, wie viel Risiko ist die richtige Menge?
 
 Für mich bedeutet Risiko die Möglichkeit, bei etwas falsch zu liegen, das für jemanden wichtigem wichtig ist. Wenn wir nicht denken, dass es einen Unterschied macht, ob wir falsch liegen, dann ist es nicht wert, es herauszufinden. Es besteht kein Risiko. Wenn wir glauben, dass es etwas wichtig ist, dann ist *eine* Sache nicht riskant: Ob unsere Arbeit Risiken aufweist. Sie wird es! Wir haben immer zwei übergeordnete Risiken zu managen: Bei der Sache falsch liegen, wer wichtig ist und falsch liegen bei dem, was ihnen wichtig ist.

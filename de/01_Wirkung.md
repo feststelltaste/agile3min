@@ -1,3 +1,5 @@
+# Wirkung
+
 Warum drei Minuten? Weil vier zu viele wären.
 
 Warum agil? Mich kümmert „agil“ nicht um seiner selbst willen &ndash; und ich denke Dich auch nicht.
